@@ -14,8 +14,11 @@ python manage.py runserver 0.0.0.0:8080
 
 `curl -i "http://localhost:8080/answer/?question=how%20to%20check%20group%20status%20in%20icluster%20web"`
 
+Question:
+```
+how to check group status in icluster web
+```
 Examples result
-
 ```
 {
 answer: "To check the group status in iCluster, you can use the Full Cluster Status Monitor. This monitor lists all the groups in the cluster and provides their status.
